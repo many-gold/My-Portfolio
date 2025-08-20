@@ -19,6 +19,7 @@ export default function Footer() {
                   width={48}
                   height={48}
                   className="object-cover"
+                  loading="lazy"
                 />
               </div>
               <span className="text-xl font-semibold">Bizuwork Jemaneh</span>

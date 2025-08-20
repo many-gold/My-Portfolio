@@ -37,6 +37,7 @@ export default function Home() {
               src="/photo.jpg"
               alt="Profile"
               className="w-full h-full rounded-full object-cover border-4 border-white shadow-xl opacity-90"
+               loading="lazy"
             />
 
             
