@@ -44,7 +44,7 @@ export default function Contact() {
         <button className="btn-primary">Send</button>
       </form>
       <div className="opacity-80">
-        Or email me directly: <a className="link" href="mailto:you@example.com">you@example.com</a>
+        Or email me directly: <a className="link" href="mailto:bizuworkjemameneh@gmail.com">bizuworkjemameneh@gmail.com</a>
       </div>
     </section>
     </div>

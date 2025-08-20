@@ -72,10 +72,10 @@ export default function Home() {
 
           {/* Social Icons */}
           <div className="flex justify-center lg:justify-start gap-6 mt-6 text-gray-200">
-            <a href="https://github.com/yourusername" target="_blank"><FaGithub size={24} className="hover:text-indigo-400" /></a>
-            <a href="https://linkedin.com/in/yourusername" target="_blank"><FaLinkedin size={24} className="hover:text-indigo-400" /></a>
+            <a href="https://github.com/many-gold/" target="_blank"><FaGithub size={24} className="hover:text-indigo-400" /></a>
+            <a href="https://linkedin.com/in/bizuwork-jemaneh-5b9604297" target="_blank"><FaLinkedin size={24} className="hover:text-indigo-400" /></a>
             <a href="https://twitter.com/yourusername" target="_blank"><FaTwitter size={24} className="hover:text-indigo-400" /></a>
-            <a href="mailto:youremail@example.com"><FaEnvelope size={24} className="hover:text-indigo-400" /></a>
+            <a href="mailto:bizuworkjemameneh@gmail.com"><FaEnvelope size={24} className="hover:text-indigo-400" /></a>
           </div>
         </div>
       </section>

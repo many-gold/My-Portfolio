@@ -44,7 +44,7 @@ export default function Footer() {
             <h3 className="font-semibold text-lg">Connect</h3>
             <div className="flex space-x-4">
               <SocialLink href="https://github.com/many-gold/" icon={<FaGithub size={20} />} />
-              <SocialLink href="https://linkedin.com" icon={<FaLinkedin size={20} />} />
+              <SocialLink href="https://linkedin.com/in/bizuwork-jemaneh-5b9604297" icon={<FaLinkedin size={20} />} />
               <SocialLink href="https://twitter.com" icon={<FaTwitter size={20} />} />
               <SocialLink href="mailto:bizuworkjemameneh@gmail.com" icon={<FaRegEnvelope size={20} />} />
             </div>
