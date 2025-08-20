@@ -50,9 +50,7 @@ export default function Home() {
           </h1>
 
           <p className="text-lg text-black-200 max-w-xl mx-auto lg:mx-0">
-            I’m <span className="bg-gradient-to-r from-indigo-500 to-purple-500 bg-clip-text text-transparent font-medium">Bizuwork Jemaneh</span>, 
-            an ERP and banking software engineer with 8+ years of experience. I specialize in building scalable, enterprise-grade systems 
-            using <span className="font-medium">Java, C#, React, Vue, and modern cloud-first architectures hey every one</span>.
+            I’m an ERP and Banking Software Engineer with over 8 years of experience in designing and developing scalable, enterprise-grade systems. My expertise spans Java, C#, React, Vue.js, and modern cloud-first architectures. I specialize in delivering robust solutions for ERP, payroll, HR, inventory, and banking systems that drive efficiency and innovation..
           </p>
 
           {/* Buttons */}

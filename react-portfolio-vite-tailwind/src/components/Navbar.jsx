@@ -15,7 +15,17 @@ export default function Navbar() {
   return (
     <header className="sticky top-0 z-50 backdrop-blur bg-white/70 dark:bg-gray-900/70 border-b border-gray-200 dark:border-gray-800">
       <div className="container-p flex items-center justify-between h-16">
-        <Link to="/" className="font-bold text-lg">My Portfolio</Link>
+        <Link to="/" className="flex items-center gap-2 font-bold text-lg">
+          <img
+            src="/photo.jpg"
+            alt="Bizuwork Jemaneh"
+            width={48}
+            height={48}
+            className="rounded-full object-cover"
+          />
+          <span>MG</span>
+        </Link>
+
         <nav className="hidden md:flex items-center gap-1">
           <NavItem to="/">Home</NavItem>
           <NavItem to="/about">About</NavItem>
