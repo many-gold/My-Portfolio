@@ -51,7 +51,7 @@ export default function Home() {
           </h1>
 
           <p className="text-lg text-black-200 max-w-xl mx-auto lg:mx-0">
-            I’m an ERP and Banking Software Engineer with over 8 years of experience in designing and developing scalable, enterprise-grade systems. My expertise spans Java, C#, React, Vue.js, and modern cloud-first architectures. I specialize in delivering robust solutions for ERP, payroll, HR, inventory, and banking systems that drive efficiency and innovation..
+            I’m an ERP and Banking Software Engineer with over 8 years of experience in designing and developing scalable, enterprise-grade systems. My expertise spans Java, C#, React, Vue.js, and modern cloud-first architectures. I specialize in delivering robust solutions for ERP modules including payroll, HR, inventory, and banking systems that drive efficiency and innovation..
           </p>
 
           {/* Buttons */}

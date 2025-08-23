@@ -35,7 +35,7 @@ export default function Navbar() {
             className="rounded-full object-cover"
              loading="lazy"
           />
-          <span>MG</span>
+          <span>Bizuwork Jemaneh</span>
         </Link>
 
         {/* Desktop Menu */}
