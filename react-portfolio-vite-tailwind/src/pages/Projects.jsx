@@ -90,7 +90,7 @@ export default function Projects() {
       <section className="relative z-10 w-full py-16 px-6">
         <div className="max-w-7xl mx-auto text-center mb-12">
           <h2 className="text-4xl font-bold text-white">Projects</h2>
-          <p className="mt-4 text-gray-300 text-lg">
+          <p className="mt-4 text-black-300 text-lg">
             A showcase of my key projects across HR, Payroll, Banking, and
             eCommerce solutions.
           </p>
